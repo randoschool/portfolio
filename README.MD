@@ -1,15 +1,6 @@
 # Portfolio Muudatus
 # 1. Projekt
 
-- Esimene
-
-   Siia peaks tulema blokk tektsi, ja siis
-   saab järgmise rea peale
-2. teine
-3. kolmas
-* Uus rida
-+ veel
-
 Siin on **bold** _text_ ja selle ~~tõmbame~~ maha
 dadaöölaödköakdöaködkaödkö
 
