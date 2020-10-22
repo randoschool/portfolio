@@ -1,9 +1,6 @@
-# Portfolio
+# Portfolio Muudatus
 # 1. Projekt
 
-## Mis me tegime oma tiimiga?
-## Mis oli minu roll tiimis?
-## Viited(lingid) projektile
 - Esimene
 
    Siia peaks tulema blokk tektsi, ja siis
